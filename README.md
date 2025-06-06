@@ -50,7 +50,8 @@ Ensure these files are in the same folder:
 Open `DatabaseGUI.java` and edit the following line with your Oracle DB username and password:
 
 ```java
-String dbURL = "jdbc:oracle:thin:USERNAME/PASSWORD@oracle.scs.ryerson.ca:1521:orcl";```
+String dbURL = "jdbc:oracle:thin:USERNAME/PASSWORD@oracle.scs.ryerson.ca:1521:orcl";
+```
 
 ---
 
@@ -61,7 +62,8 @@ Open your terminal, `cd` into the folder, and run:
 ```bash
 java -cp ojdbc6-11.2.0.4.jar DatabaseGUI.java
 
-![Compiling Command](screenshots/compile.png)```
+![Compiling Command](screenshots/compile.png)
+```
 
 ---
 
