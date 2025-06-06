@@ -61,7 +61,7 @@ Open your terminal, `cd` into the folder, and run:
 ```bash
 java -cp ojdbc6-11.2.0.4.jar DatabaseGUI.java
 
-![Compiling Command](screenshots/compile.png)
+![Compiling Command](screenshots/compile.png)```
 
 ---
 
