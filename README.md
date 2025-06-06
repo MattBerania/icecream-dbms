@@ -74,7 +74,7 @@ java -cp ojdbc6-11.2.0.4.jar DatabaseGUI.java
 
 Displays all database tables with options to view, insert, delete, create, and drop.
 
-![Main Window](screenshots/main.png)
+![Main Window](screenshots/main-page.png)
 
 ---
 
