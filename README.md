@@ -50,7 +50,7 @@ Ensure these files are in the same folder:
 Open `DatabaseGUI.java` and edit the following line with your Oracle DB username and password:
 
 ```java
-String dbURL = "jdbc:oracle:thin:USERNAME/PASSWORD@oracle.scs.ryerson.ca:1521:orcl";
+String dbURL = "jdbc:oracle:thin:USERNAME/PASSWORD@oracle.scs.ryerson.ca:1521:orcl";```
 
 ---
 
